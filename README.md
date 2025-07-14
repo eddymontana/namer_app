@@ -1,4 +1,4 @@
-# namer_app
+Namer app
 
 Table of Contents
 About the Project
