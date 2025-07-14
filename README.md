@@ -1,8 +1,5 @@
 # namer_app
 
-# namer_app
-
-Namer App
 Table of Contents
 About the Project
 
